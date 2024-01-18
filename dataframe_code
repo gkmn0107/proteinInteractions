@@ -1,0 +1,46 @@
+import re
+import pandas as pd
+
+def extract_data(line):
+    data = {}
+    
+    # Eprotein adları
+    protein_matches = re.findall(r'uniprotkb:([^\s]+)', line)
+    if len(protein_matches) >= 2:
+        data['Protein1'] = protein_matches[0]
+        data['Protein2'] = protein_matches[1]
+    else:
+        data['Protein1'] = None
+        data['Protein2'] = None
+    
+    # tür ve virüs adları
+    species_matches = re.findall(r'taxid:(\d+)\(([^\)]+)\)', line)
+    for i, (taxid, name) in enumerate(species_matches, start=1):
+        data[f'Taxonomy{i}'] = f'taxid:{taxid}({name})'
+    
+    # miscore ayrıştırma
+    miscore_match = re.search(r'intact-miscore:([\d.]+)', line)
+    if miscore_match:
+        data['Miscore'] = miscore_match.group(1)
+    
+    return data
+
+# dosya okuma
+file_path = r"C:\Users\Gokmend\source\repos\PythonApplication1\datasets\dataset1.txt"
+output_data = []
+
+with open(file_path, 'r') as file:
+    for line in file:
+        # Extract data from the line
+        data = extract_data(line)
+        output_data.append(data)
+
+# Ayrıştırılmış veriden dataframe oluşturma
+df = pd.DataFrame(output_data)
+
+# dataframe'i cvs dosyasına kaydetme
+output_csv_path = r"C:\Users\Gokmend\source\repos\PythonApplication1\datasets\processed_dataset.csv"
+df.to_csv(output_csv_path, index=False)
+
+# dataframe görüntüle
+print(df)
