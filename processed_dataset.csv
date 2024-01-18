@@ -1,0 +1,401 @@
+Protein1,Protein2,Taxonomy1,Taxonomy2,Taxonomy3,Taxonomy4,Miscore
+Q9Q2G4,P33991,taxid:11676(9hiv1),taxid:11676(Human immunodeficiency virus 1),taxid:9606(human),taxid:9606(Homo sapiens),0.56
+Q9BZF3,Q9Q2G4,taxid:9606(human),taxid:9606(Homo sapiens),taxid:11676(9hiv1),taxid:11676(Human immunodeficiency virus 1),0.56
+Q9Q2G4,Q9UKK3,taxid:11676(9hiv1),taxid:11676(Human immunodeficiency virus 1),taxid:9606(human),taxid:9606(Homo sapiens),0.56
+Q9Q2G4,P61758,taxid:11676(9hiv1),taxid:11676(Human immunodeficiency virus 1),taxid:9606(human),taxid:9606(Homo sapiens),0.56
+Q8TB72,Q9Q2G4,taxid:9606(human),taxid:9606(Homo sapiens),taxid:11676(9hiv1),taxid:11676(Human immunodeficiency virus 1),0.56
+Q9Q2G4,Q12874,taxid:11676(9hiv1),taxid:11676(Human immunodeficiency virus 1),taxid:9606(human),taxid:9606(Homo sapiens),0.56
+O60232,Q9Q2G4,taxid:9606(human),taxid:9606(Homo sapiens),taxid:11676(9hiv1),taxid:11676(Human immunodeficiency virus 1),0.56
+Q9UHF7,Q9Q2G4,taxid:9606(human),taxid:9606(Homo sapiens),taxid:11676(9hiv1),taxid:11676(Human immunodeficiency virus 1),0.56
+Q9UMS0,Q9Q2G4,taxid:9606(human),taxid:9606(Homo sapiens),taxid:11676(9hiv1),taxid:11676(Human immunodeficiency virus 1),0.56
+P03120,Q71BI4,taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.50
+P03120,Q71BI4,taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.50
+P03120,Q71BI4,taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.35
+Q98143,O40917,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.37
+Q76RG7,O40917,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.37
+Q76RG4,O40917,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+Q98143,O40925,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.37
+Q98143,Q76RF6,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+Q98143,O40942,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+Q98143,Q98142,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.37
+Q76RG7,Q98143,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.37
+Q76RG4,Q98143,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+O40931,Q98138,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.37
+Q98138,Q98142,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.37
+Q76RG7,Q98138,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+Q98138,Q76RG4,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+O40929,Q77UU3,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+O40929,O40931,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.37
+O40929,Q98142,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.37
+Q76RG4,O40929,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+Q77UV9,C7E599,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.37
+Q77UV9,Q76RF6,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+Q77UV9,Q76RF4,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.37
+O40917,Q77UV9,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+Q98143,Q77UV9,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+O40929,Q77UV9,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+Q77UV9,Q76RF5,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+Q77UV9,O40942,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+Q77UV9,D0UZU4,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+Q77UV9,O40931,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.37
+Q77UV9,Q98142,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.37
+Q76RG7,Q77UV9,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+Q76RG4,Q77UV9,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+Q77UV9,Q76RF5,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+O40942,Q76RF5,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+Q76RG7,Q76RF5,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+Q76RF5,Q76RG4,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+O40925,O40942,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+O40942,Q76RF6,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+O40942,O40917,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.37
+O40942,O40942,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+O40942,D0UZU4,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+O40942,Q77UU3,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+O40942,O40931,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+O40942,Q98142,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.37
+Q76RG7,O40942,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.37
+D0UZU4,Q76RF6,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.37
+O40931,D0UZU4,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+D0UZU4,Q76RG4,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+D0UZU4,Q77UV9,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+O40942,D0UZU4,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+O40942,Q77UV9,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+O40942,Q76RF5,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+Q98143,O40942,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+Q98143,D0UZN7,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.40
+O40942,Q98143,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+Q98143,Q98143,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.40
+Q76RG4,O40917,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+D0UZU4,Q98143,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.40
+Q98143,Q76RF6,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+Q98143,O40942,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+Q98143,Q76RG4,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+Q76RG7,Q98138,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+Q76RG4,Q98138,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+Q77UU3,O40929,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+O40929,Q76RG4,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+Q77UV9,Q76RF6,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+O40917,Q77UV9,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+Q98143,Q77UV9,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+O40929,Q77UV9,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+Q77UV9,Q76RF5,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+O40942,Q77UV9,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+D0UZU4,Q77UV9,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+Q77UV9,Q76RG7,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+Q77UV9,Q76RG4,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+Q77UV9,Q76RF5,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+Q76RF5,O40942,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+Q76RF5,Q76RG7,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+Q76RF5,Q76RG4,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+O40942,O40925,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+Q76RF6,O40942,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+O40942,O40942,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+O40942,D0UZU4,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+O40942,Q77UU3,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+O40931,O40942,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+D0UZU4,O40931,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+D0UZU4,Q76RG4,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+O40942,D0UZU4,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+O40942,Q77UV9,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+O40942,Q76RF5,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+Q76RF5,Q98143,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.40
+Q98138,Q77UV9,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.40
+O40931,D0UZT1,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.40
+D0UZT1,D0UZN7,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.40
+D0UZT1,Q80PP8,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.40
+Q76RF6,D0UZT1,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.40
+O40917,D0UZT1,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.40
+Q98143,D0UZT1,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.40
+D0UZT1,D0UZP5,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.40
+D0UZT1,Q77UV9,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.40
+D0UZT1,Q76RF5,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.40
+D0UZT1,D0UZU4,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.40
+D0UZT1,D0UZT1,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.40
+P04489,P04489,taxid:28285(ade05),"taxid:28285(""Human adenovirus C serotype 5 (HAdV-5)",taxid:28285(ade05),"taxid:28285(""Human adenovirus C serotype 5 (HAdV-5)",0.72
+P04489,P04489,taxid:28285(ade05),"taxid:28285(""Human adenovirus C serotype 5 (HAdV-5)",taxid:28285(ade05),"taxid:28285(""Human adenovirus C serotype 5 (HAdV-5)",0.72
+P04489,P04489,taxid:28285(ade05),"taxid:28285(""Human adenovirus C serotype 5 (HAdV-5)",taxid:28285(ade05),"taxid:28285(""Human adenovirus C serotype 5 (HAdV-5)",0.72
+P04489,P04489,taxid:28285(ade05),"taxid:28285(""Human adenovirus C serotype 5 (HAdV-5)",taxid:28285(ade05),"taxid:28285(""Human adenovirus C serotype 5 (HAdV-5)",0.72
+C7E599,Q2HR80,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:868565(hhv8p),taxid:868565(Human herpesvirus 8),0.51
+Q2HR80,Q77UV9,taxid:868565(hhv8p),taxid:868565(Human herpesvirus 8),taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+Q2HR80,O40942,taxid:868565(hhv8p),taxid:868565(Human herpesvirus 8),taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.37
+D0UZU4,Q2HR80,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:868565(hhv8p),taxid:868565(Human herpesvirus 8),0.51
+O40931,Q2HR80,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:868565(hhv8p),taxid:868565(Human herpesvirus 8),0.51
+Q76RG7,Q2HR80,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:868565(hhv8p),taxid:868565(Human herpesvirus 8),0.37
+Q2HR80,Q76RG4,taxid:868565(hhv8p),taxid:868565(Human herpesvirus 8),taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+Q2HR80,D0UZU4,taxid:868565(hhv8p),taxid:868565(Human herpesvirus 8),taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+O40942,Q2HR80,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:868565(hhv8p),taxid:868565(Human herpesvirus 8),0.37
+O40929,Q2HR80,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:868565(hhv8p),taxid:868565(Human herpesvirus 8),0.40
+O40929,Q2HR64,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:868565(hhv8p),taxid:868565(Human herpesvirus 8),0.40
+C7E599,Q2HR80,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:868565(hhv8p),taxid:868565(Human herpesvirus 8),0.51
+Q77UV9,Q2HR80,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:868565(hhv8p),taxid:868565(Human herpesvirus 8),0.51
+D0UZU4,Q2HR80,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:868565(hhv8p),taxid:868565(Human herpesvirus 8),0.51
+Q2HR80,O40931,taxid:868565(hhv8p),taxid:868565(Human herpesvirus 8),taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+Q76RG4,Q2HR80,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:868565(hhv8p),taxid:868565(Human herpesvirus 8),0.51
+Q98143,Q9QR70,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:868565(hhv8p),taxid:868565(Human herpesvirus 8),0.40
+Q2HR64,Q80PP8,taxid:868565(hhv8p),taxid:868565(Human herpesvirus 8),taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.40
+Q2HR80,Q77UV9,taxid:868565(hhv8p),taxid:868565(Human herpesvirus 8),taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.51
+O40931,Q2HR80,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:868565(hhv8p),taxid:868565(Human herpesvirus 8),0.51
+Q05086-1,Q77E16,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.49
+Q05086-1,Q77E16,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.49
+Q05086-1,Q77E16,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.49
+Q05086-1,Q77E16,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.49
+Q05086-2,Q77E16,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.49
+Q05086-1,Q77E16,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.49
+Q05086-2,Q77E16,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.49
+Q05086-2,Q77E16,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.49
+Q05086-2,Q77E16,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.49
+Q05086-2,Q77E16,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.49
+Q05086-2,Q77E16,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.49
+Q05086-2,Q77E16,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.49
+Q05086-3,Q77E16,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.49
+Q05086-3,Q77E16,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.49
+Q05086-2,Q77E16,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.49
+Q05086-3,Q77E16,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.49
+Q05086-3,Q77E16,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.49
+Q05086-3,Q77E16,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.49
+Q05086-3,Q77E16,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.49
+Q05086-1,Q77E16,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.49
+Q05086-1,Q77E16,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.49
+Q05086-1,Q77E16,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.49
+Q05086-1,Q77E16,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.49
+Q05086-2,Q77E16,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.49
+Q05086-2,Q77E16,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.49
+Q05086-2,Q77E16,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.49
+Q05086-2,Q77E16,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.49
+Q05086-1,Q77E16,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.49
+Q05086-2,Q77E16,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.49
+Q05086-2,Q77E16,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.49
+Q05086-2,Q77E16,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.49
+Q05086-2,Q77E16,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.49
+Q05086-3,Q77E16,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.49
+Q05086-3,Q77E16,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.49
+Q05086-3,Q77E16,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.49
+Q05086-3,Q77E16,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.49
+Q05086-3,Q77E16,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.49
+Q05086-3,Q77E16,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.49
+P69905,P01922|uniprotkb:Q3MIF5|uniprotkb:Q96KF1|uniprotkb:Q9NYR7|uniprotkb:Q1HDT5|uniprotkb:Q53F97|uniprotkb:Q9UCM0|ensembl:ENSP00000251595.6|ensembl:ENSP00000322421.5,taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),taxid:9606(human),taxid:9606(Homo sapiens),0.40
+P08729,Q92676|uniprotkb:Q9BUD8|uniprotkb:Q9Y3R7|ensembl:ENSP00000329243.5,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.40
+P03129,P51784,taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),taxid:9606(human),taxid:9606(Homo sapiens),0.58
+P03129,P51784,taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),taxid:9606(human),taxid:9606(Homo sapiens),0.58
+P03129,P51784,taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),taxid:9606(human),taxid:9606(Homo sapiens),0.58
+P03129,P51784,taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),taxid:9606(human),taxid:9606(Homo sapiens),0.58
+P51784,P03129,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.58
+P03129,P51784,taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),taxid:9606(human),taxid:9606(Homo sapiens),0.58
+P03120,Q8TD31,taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),taxid:9606(human),taxid:9606(Homo sapiens),0.37
+O60885,P03120,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.77
+P03120,P22736,taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),taxid:9606(human),taxid:9606(Homo sapiens),0.55
+P82094,P03120,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.37
+P21675-2,P03120,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.37
+Q9H0C5,P03120,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.55
+P03120,Q15637,taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),taxid:9606(human),taxid:9606(Homo sapiens),0.37
+P31274,P03120,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.55
+P03120,Q9BX70,taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),taxid:9606(human),taxid:9606(Homo sapiens),0.37
+P03120,Q8TD31,taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),taxid:9606(human),taxid:9606(Homo sapiens),0.37
+P82094,P03120,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.37
+P03120,P22736,taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),taxid:9606(human),taxid:9606(Homo sapiens),0.55
+P03120,P21675-2,taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),taxid:9606(human),taxid:9606(Homo sapiens),0.37
+P03120,Q15637,taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),taxid:9606(human),taxid:9606(Homo sapiens),0.37
+Q9BX70,P03120,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.37
+P03120,O60885,taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),taxid:9606(human),taxid:9606(Homo sapiens),0.77
+P03120,P31274,taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),taxid:9606(human),taxid:9606(Homo sapiens),0.55
+Q9H0C5,P03120,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.55
+P03126,Q9NQC7,taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),taxid:9606(human),taxid:9606(Homo sapiens),0.35
+P03126,P04637,taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),taxid:9606(human),taxid:9606(Homo sapiens),0.81
+P0C6X1-PRO_0000037299,P0C6X1-PRO_0000037300,taxid:11137(hcov-229e),taxid:11137(Human coronavirus 229E),taxid:11137(hcov-229e),taxid:11137(Human coronavirus 229E),0.56
+P0C6X1-PRO_0000037299,P0C6X1-PRO_0000037300,taxid:11137(hcov-229e),taxid:11137(Human coronavirus 229E),taxid:11137(hcov-229e),taxid:11137(Human coronavirus 229E),0.56
+P0C6X1-PRO_0000037299,P0C6X1-PRO_0000037300,taxid:11137(hcov-229e),taxid:11137(Human coronavirus 229E),taxid:11137(hcov-229e),taxid:11137(Human coronavirus 229E),0.56
+P0C6X1,P0C6X1-PRO_0000037297,taxid:11137(hcov-229e),taxid:11137(Human coronavirus 229E),taxid:11137(hcov-229e),taxid:11137(Human coronavirus 229E),0.44
+P0C6X1-PRO_0000037299,P0C6X1-PRO_0000037300,taxid:11137(hcov-229e),taxid:11137(Human coronavirus 229E),taxid:11137(hcov-229e),taxid:11137(Human coronavirus 229E),0.56
+Q2HR64,Q2HRC8,taxid:868565(hhv8p),taxid:868565(Human herpesvirus 8),taxid:868565(hhv8p),taxid:868565(Human herpesvirus 8),0.40
+Q6QCV6,Q6QCM2,taxid:10335(hhv3),"taxid:10335(""Human herpesvirus 3 (HHV-3)",taxid:10335(hhv3),"taxid:10335(""Human herpesvirus 3 (HHV-3)",0.37
+Q6QCV6,Q0Q8R5,taxid:10335(hhv3),"taxid:10335(""Human herpesvirus 3 (HHV-3)",taxid:10335(hhv3),"taxid:10335(""Human herpesvirus 3 (HHV-3)",0.37
+Q6QCM2,Q6QCM2,taxid:10335(hhv3),"taxid:10335(""Human herpesvirus 3 (HHV-3)",taxid:10335(hhv3),"taxid:10335(""Human herpesvirus 3 (HHV-3)",0.37
+Q0Q8R5,Q6QCM2,taxid:10335(hhv3),"taxid:10335(""Human herpesvirus 3 (HHV-3)",taxid:10335(hhv3),"taxid:10335(""Human herpesvirus 3 (HHV-3)",0.37
+Q6QCM2,Q0Q8R5,taxid:10335(hhv3),"taxid:10335(""Human herpesvirus 3 (HHV-3)",taxid:10335(hhv3),"taxid:10335(""Human herpesvirus 3 (HHV-3)",0.37
+P03418,P03421,taxid:11259(hrsva),taxid:11259(human respiratory sy),taxid:11259(hrsva),taxid:11259(human respiratory sy),0.49
+O15350-1,P03126,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.53
+P03126,O15350-1,taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),taxid:9606(human),taxid:9606(Homo sapiens),0.53
+O15350-2,P03126,taxid:9606(human),taxid:9606(Homo sapiens),taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.44
+P03420,P0DOE7,taxid:11259(hrsva),taxid:11259(human respiratory sy),taxid:11259(hrsva),taxid:11259(human respiratory sy),0.38
+P0DOE7,P04545,taxid:11259(hrsva),taxid:11259(human respiratory sy),taxid:11259(hrsva),taxid:11259(human respiratory sy),0.58
+P03420,P04545,taxid:11259(hrsva),taxid:11259(human respiratory sy),taxid:11259(hrsva),taxid:11259(human respiratory sy),0.38
+P04545,P0DOE7,taxid:11259(hrsva),taxid:11259(human respiratory sy),taxid:11259(hrsva),taxid:11259(human respiratory sy),0.58
+P03420,P0DOE7,taxid:11259(hrsva),taxid:11259(human respiratory sy),taxid:11259(hrsva),taxid:11259(human respiratory sy),0.38
+P03420,P04545,taxid:11259(hrsva),taxid:11259(human respiratory sy),taxid:11259(hrsva),taxid:11259(human respiratory sy),0.38
+P15423,P15423,taxid:11137(hcov-229e),taxid:11137(Human coronavirus 229E),taxid:11137(hcov-229e),taxid:11137(Human coronavirus 229E),0.32
+P0C6X1-PRO_0000037301,P0C6X1-PRO_0000037301,taxid:11137(hcov-229e),taxid:11137(Human coronavirus 229E),taxid:11137(hcov-229e),taxid:11137(Human coronavirus 229E),0.61
+P0C6X1-PRO_0000037301,P0C6X1-PRO_0000037301,taxid:11137(hcov-229e),taxid:11137(Human coronavirus 229E),taxid:11137(hcov-229e),taxid:11137(Human coronavirus 229E),0.61
+P0C6X1-PRO_0000037301,P0C6X1-PRO_0000037301,taxid:11137(hcov-229e),taxid:11137(Human coronavirus 229E),taxid:11137(hcov-229e),taxid:11137(Human coronavirus 229E),0.61
+P0C6X1-PRO_0000037301,P0C6X1-PRO_0000037301,taxid:11137(hcov-229e),taxid:11137(Human coronavirus 229E),taxid:11137(hcov-229e),taxid:11137(Human coronavirus 229E),0.61
+P0C6X1-PRO_0000037301,P0C6X1-PRO_0000037301,taxid:11137(hcov-229e),taxid:11137(Human coronavirus 229E),taxid:11137(hcov-229e),taxid:11137(Human coronavirus 229E),0.61
+P00742,P04133,taxid:9606(human),taxid:9606(Homo sapiens),taxid:28285(ade05),"taxid:28285(""Human adenovirus C serotype 5 (HAdV-5)",0.44
+P04133,P08709,taxid:28285(ade05),"taxid:28285(""Human adenovirus C serotype 5 (HAdV-5)",taxid:9606(human),taxid:9606(Homo sapiens),0.44
+Q99471,Q9DUN1,taxid:9606(human),taxid:9606(Homo sapiens),taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.68
+Q9DUN1,Q99471,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:9606(human),taxid:9606(Homo sapiens),0.68
+Q9DUN1,Q99471,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:9606(human),taxid:9606(Homo sapiens),0.68
+Q99471,Q9DUN1,taxid:9606(human),taxid:9606(Homo sapiens),taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.68
+Q9DUN1,Q99471,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:9606(human),taxid:9606(Homo sapiens),0.68
+Q99471,Q9DUN1,taxid:9606(human),taxid:9606(Homo sapiens),taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.68
+Q99471,Q9DUN1,taxid:9606(human),taxid:9606(Homo sapiens),taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.68
+Q9DUN1,Q2HR72,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:9606(human),taxid:9606(Homo sapiens),0.50
+Q9DUN1,Q2HR72,taxid:9606(human),taxid:9606(Homo sapiens),taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.50
+Q9DUN1,Q2HR72,taxid:9606(human),taxid:9606(Homo sapiens),taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.35
+Q9DUN1,Q2HR72,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:9606(human),taxid:9606(Homo sapiens),0.50
+Q99471,Q9DUN1,taxid:9606(human),taxid:9606(Homo sapiens),taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.68
+P01106,Q9DUN1,taxid:9606(human),taxid:9606(Homo sapiens),taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",0.40
+Q9UER7,P03244,taxid:9606(human),taxid:9606(Homo sapiens),taxid:10515(ade02),"taxid:10515(""Human adenovirus C serotype 2 (HAdV-2)",0.53
+P03244,Q9UER7,taxid:10515(ade02),"taxid:10515(""Human adenovirus C serotype 2 (HAdV-2)",taxid:9606(human),taxid:9606(Homo sapiens),0.53
+Q9UER7,P03244,taxid:9606(human),taxid:9606(Homo sapiens),taxid:10515(ade02),"taxid:10515(""Human adenovirus C serotype 2 (HAdV-2)",0.53
+Q9UER7,P03243,taxid:9606(human),taxid:9606(Homo sapiens),taxid:28285(ade05),"taxid:28285(""Human adenovirus C serotype 5 (HAdV-5)",0.46
+Q9UER7,P03243,taxid:9606(human),taxid:9606(Homo sapiens),taxid:28285(ade05),"taxid:28285(""Human adenovirus C serotype 5 (HAdV-5)",0.46
+Q9UER7,P03244,taxid:9606(human),taxid:9606(Homo sapiens),taxid:10515(ade02),"taxid:10515(""Human adenovirus C serotype 2 (HAdV-2)",0.53
+Q9UER7,P03243,taxid:9606(human),taxid:9606(Homo sapiens),taxid:28285(ade05),"taxid:28285(""Human adenovirus C serotype 5 (HAdV-5)",0.46
+Q9UER7,P03243,taxid:9606(human),taxid:9606(Homo sapiens),taxid:28285(ade05),"taxid:28285(""Human adenovirus C serotype 5 (HAdV-5)",0.46
+Q98823,P40189,taxid:37296(hhv8),"taxid:37296(""Human herpesvirus 8 (HHV-8)",taxid:9606(human),taxid:9606(Homo sapiens),0.44
+O15259,P03243,taxid:9606(human),taxid:9606(Homo sapiens),taxid:28285(ade05),"taxid:28285(""Human adenovirus C serotype 5 (HAdV-5)",0.27
+Q6UVJ0,P03243,taxid:9606(human),taxid:9606(Homo sapiens),taxid:28285(ade05),"taxid:28285(""Human adenovirus C serotype 5 (HAdV-5)",0.27
+Q7Z7A1,P03243,taxid:9606(human),taxid:9606(Homo sapiens),taxid:28285(ade05),"taxid:28285(""Human adenovirus C serotype 5 (HAdV-5)",0.27
+Q9Y2I6,P03243,taxid:9606(human),taxid:9606(Homo sapiens),taxid:28285(ade05),"taxid:28285(""Human adenovirus C serotype 5 (HAdV-5)",0.27
+Q9Y2I6,P03243,taxid:9606(human),taxid:9606(Homo sapiens),taxid:28285(ade05),"taxid:28285(""Human adenovirus C serotype 5 (HAdV-5)",0.27
+Q7Z7A1,P03243,taxid:9606(human),taxid:9606(Homo sapiens),taxid:28285(ade05),"taxid:28285(""Human adenovirus C serotype 5 (HAdV-5)",0.27
+P04489,O60934,taxid:28285(ade05),"taxid:28285(""Human adenovirus C serotype 5 (HAdV-5)",taxid:9606(human),taxid:9606(Homo sapiens),0.27
+P04019,O15350-1,taxid:10580(hpv11),taxid:10580(Human papillomavirus type 11),taxid:9606(human),taxid:9606(Homo sapiens),0.37
+O60238,P03247,taxid:9606(human),taxid:9606(Homo sapiens),taxid:10515(ade02),"taxid:10515(""Human adenovirus C serotype 2 (HAdV-2)",0.65
+O60238,P03247,taxid:9606(human),taxid:9606(Homo sapiens),taxid:10515(ade02),"taxid:10515(""Human adenovirus C serotype 2 (HAdV-2)",0.65
+P06400,P03255,taxid:9606(human),taxid:9606(Homo sapiens),taxid:28285(ade05),"taxid:28285(""Human adenovirus C serotype 5 (HAdV-5)",0.92
+P03255,Q01094,taxid:28285(ade05),"taxid:28285(""Human adenovirus C serotype 5 (HAdV-5)",taxid:9606(human),taxid:9606(Homo sapiens),0.35
+P03255,P06400,taxid:28285(ade05),"taxid:28285(""Human adenovirus C serotype 5 (HAdV-5)",taxid:9606(human),taxid:9606(Homo sapiens),0.92
+P03255,P06438|uniprotkb:Q64825|uniprotkb:Q64826,taxid:28285(ade05),"taxid:28285(""Human adenovirus C serotype 5 (HAdV-5)",taxid:9606(human),taxid:9606(Homo sapiens),0.35
+P03255,P06438|uniprotkb:Q64825|uniprotkb:Q64826,taxid:28285(ade05),"taxid:28285(""Human adenovirus C serotype 5 (HAdV-5)",taxid:9606(human),taxid:9606(Homo sapiens),0.35
+Q9BUN8,P09727,taxid:9606(human),taxid:9606(Homo sapiens),taxid:10360(hcmva),"taxid:10360(""Human cytomegalovirus (strain AD169)",0.35
+P30459,P35961,taxid:9606(human),taxid:9606(Homo sapiens),taxid:362651(hv1y2),"taxid:362651(""Human immunodeficiency virus type 1 group M subtype B (isolate YU-2)",0.40
+P30459,P35961,taxid:9606(human),taxid:9606(Homo sapiens),taxid:362651(hv1y2),"taxid:362651(""Human immunodeficiency virus type 1 group M subtype B (isolate YU-2)",0.40
+Q8WUM4,P03347,taxid:9606(human),taxid:9606(Homo sapiens),taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",0.40
+Q8WUM4,P03347,taxid:9606(human),taxid:9606(Homo sapiens),taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",0.40
+P62158,P35963,taxid:9606(human),taxid:9606(Homo sapiens),taxid:362651(hv1y2),"taxid:362651(""Human immunodeficiency virus type 1 group M subtype B (isolate YU-2)",0.35
+P01948,Hemoglobin,taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),taxid:9986(rabit),"taxid:9986(""Oryctolagus cuniculus (Rabbit)",0.40
+,,taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),,,0.40
+P01948,Hemoglobin,taxid:9986(rabit),"taxid:9986(""Oryctolagus cuniculus (Rabbit)",taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.40
+P01966,A3KN13|uniprotkb:Q3SZE0|uniprotkb:Q9TTR9|uniprotkb:Q9TTS0|uniprotkb:Q9TTS1,taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),taxid:9913(bovin),"taxid:9913(""Bos taurus (Bovine)",0.40
+P01946,P33583|uniprotkb:Q63243|uniprotkb:Q80XV2|uniprotkb:Q91V15,taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),taxid:10116(rat),"taxid:10116(""Rattus norvegicus (Rat)",0.40
+P68240,P01970,taxid:9940(sheep),"taxid:9940(""Ovis aries (Sheep)",taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.40
+P01965,HBA(gene,taxid:9823(pig),"taxid:9823(""Sus scrofa (Pig)",taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),0.40
+P21871,O12986|uniprotkb:Q91249,taxid:333760(hpv16),taxid:333760(Human papillomavirus type 16),taxid:8932(colli),"taxid:8932(""Columba livia (Domestic pigeon)",0.40
+Q9UER7,P04491,taxid:9606(human),taxid:9606(Homo sapiens),taxid:28282(ade12),"taxid:28282(""Human adenovirus A serotype 12 (HAdV-12)",0.37
+P04491,Q9UER7,taxid:28282(ade12),"taxid:28282(""Human adenovirus A serotype 12 (HAdV-12)",taxid:9606(human),taxid:9606(Homo sapiens),0.37
+P06788,P51784,taxid:333761(hpv18),taxid:333761(Human papillomavirus type 18),taxid:9606(human),taxid:9606(Homo sapiens),0.37
+P06463,P04637,taxid:333761(hpv18),taxid:333761(Human papillomavirus type 18),taxid:9606(human),taxid:9606(Homo sapiens),0.84
+P06463,Q9NQC7,taxid:333761(hpv18),taxid:333761(Human papillomavirus type 18),taxid:9606(human),taxid:9606(Homo sapiens),0.35
+P06400,Q6H1D8,taxid:9606(human),taxid:9606(Homo sapiens),taxid:130308(human adenovirus e),taxid:130308(Human adenovirus E),0.35
+P07917,P10226,taxid:10301(hhv1a),"taxid:10301(""Human herpesvirus 1 (strain Angelotti)",taxid:10299(hhv11),"taxid:10299(""Human herpesvirus 1 (strain 17)",0.44
+Q13651,P17150,taxid:9606(human),taxid:9606(Homo sapiens),taxid:10360(hcmva),"taxid:10360(""Human cytomegalovirus (strain AD169)",0.62
+P69699,Q10589,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.63
+P69699,Q10589,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.63
+Q10589,P69699,taxid:9606(human),taxid:9606(Homo sapiens),taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",0.63
+Q10589,P69699,taxid:9606(human),taxid:9606(Homo sapiens),taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",0.63
+Q10589,P69699,taxid:9606(human),taxid:9606(Homo sapiens),taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",0.63
+Q10589,P69699,taxid:9606(human),taxid:9606(Homo sapiens),taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",0.63
+Q10589,P69699,taxid:9606(human),taxid:9606(Homo sapiens),taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",0.63
+P03418,Q9BYX4,taxid:11259(hrsva),taxid:11259(human respiratory sy),taxid:9606(human),taxid:9606(Homo sapiens),0.27
+Q9BYX4,P03418,taxid:9606(human),taxid:9606(Homo sapiens),taxid:11259(hrsva),taxid:11259(human respiratory sy),0.27
+Q7Z434,P03418,taxid:9606(human),taxid:9606(Homo sapiens),taxid:11259(hrsva),taxid:11259(human respiratory sy),0.27
+P16757,Q9BZM5,taxid:10360(hcmva),"taxid:10360(""Human cytomegalovirus (strain AD169)",taxid:9606(human),taxid:9606(Homo sapiens),0.40
+Q5VY80,P16757,taxid:9606(human),taxid:9606(Homo sapiens),taxid:10360(hcmva),"taxid:10360(""Human cytomegalovirus (strain AD169)",0.46
+Q6H3X3,P16757,taxid:9606(human),taxid:9606(Homo sapiens),taxid:10360(hcmva),"taxid:10360(""Human cytomegalovirus (strain AD169)",0.40
+Q5VY80,P16757,taxid:9606(human),taxid:9606(Homo sapiens),taxid:10360(hcmva),"taxid:10360(""Human cytomegalovirus (strain AD169)",0.46
+P90495,Q9NZT1,taxid:868565(hhv8p),taxid:868565(Human herpesvirus 8),taxid:9606(human),taxid:9606(Homo sapiens),0.35
+P90495,Q15904,taxid:868565(hhv8p),taxid:868565(Human herpesvirus 8),taxid:9606(human),taxid:9606(Homo sapiens),0.35
+P90495,Q00839,taxid:868565(hhv8p),taxid:868565(Human herpesvirus 8),taxid:9606(human),taxid:9606(Homo sapiens),0.35
+P90495,Q13748,taxid:868565(hhv8p),taxid:868565(Human herpesvirus 8),taxid:9606(human),taxid:9606(Homo sapiens),0.35
+P90495,Q3ZAQ7,taxid:868565(hhv8p),taxid:868565(Human herpesvirus 8),taxid:9606(human),taxid:9606(Homo sapiens),0.35
+P90495,Q00325,taxid:868565(hhv8p),taxid:868565(Human herpesvirus 8),taxid:9606(human),taxid:9606(Homo sapiens),0.35
+P90495,P31151,taxid:868565(hhv8p),taxid:868565(Human herpesvirus 8),taxid:9606(human),taxid:9606(Homo sapiens),0.35
+P90495,P19338,taxid:868565(hhv8p),taxid:868565(Human herpesvirus 8),taxid:9606(human),taxid:9606(Homo sapiens),0.35
+P90495,Q6PEY2,taxid:868565(hhv8p),taxid:868565(Human herpesvirus 8),taxid:9606(human),taxid:9606(Homo sapiens),0.35
+P90495,Q96HS1,taxid:868565(hhv8p),taxid:868565(Human herpesvirus 8),taxid:9606(human),taxid:9606(Homo sapiens),0.35
+P90495,Q8NC56,taxid:868565(hhv8p),taxid:868565(Human herpesvirus 8),taxid:9606(human),taxid:9606(Homo sapiens),0.35
+P90495,Q71U36,taxid:868565(hhv8p),taxid:868565(Human herpesvirus 8),taxid:9606(human),taxid:9606(Homo sapiens),0.35
+P90495,O75787,taxid:868565(hhv8p),taxid:868565(Human herpesvirus 8),taxid:9606(human),taxid:9606(Homo sapiens),0.35
+P90495,Q9BQE3,taxid:868565(hhv8p),taxid:868565(Human herpesvirus 8),taxid:9606(human),taxid:9606(Homo sapiens),0.35
+P90489,P34931,taxid:868565(hhv8p),taxid:868565(Human herpesvirus 8),taxid:9606(human),taxid:9606(Homo sapiens),0.35
+P03366,Q9UGP4,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,P60228,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,P62714,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,Q9UMS0,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.35
+P03366,Q08380,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,P55884,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,O15372,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,Q13347,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,O15371,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,Q9H4L5,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,Q5T4S7,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,O75821,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,Q15293,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,Q9Y262,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,Q14152,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,P46063,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,P13667,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,Q99613,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,O00303,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,Q9UBQ5,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P05919,P05919,taxid:11706(hv1h2),"taxid:11706(""Human immunodeficiency virus type 1 group M subtype B (isolate HXB2)",taxid:11706(hv1h2),"taxid:11706(""Human immunodeficiency virus type 1 group M subtype B (isolate HXB2)",0.35
+P03366,P60228,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,Q9UBQ5,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,O75821,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,Q9Y262,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,Q99613,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,P55884,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,Q14152,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,Q13347,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,P62714,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,Q15293,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,Q5T4S7,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,P13667,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,P46063,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,Q08380,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,O15372,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,Q9UGP4,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,O00303,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,Q9H4L5,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,O15371,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,Q2T9J0,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,P22830,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.35
+P03366,O00303,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,Q9H4L5,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,O15372,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,Q9UJX6,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.35
+P03366,Q5T4S7,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,P32121,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.35
+P03366,P62993,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.35
+P03366,Q99613,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,Q9Y262,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,P33993,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,Q14566,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,O75475,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.35
+P03366,P07858,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,Q8N163,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,Q9Y266,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,P33991,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,P60228,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,Q9BRX2,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,O15371,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,Q9UBQ5,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,Q9Y265,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,Q15084,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,P31350,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.35
+P03366,Q14152,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,Q9P2R7,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.46
+P03366,P50213,taxid:11678(hv1b1),"taxid:11678(""Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",taxid:9606(human),taxid:9606(Homo sapiens),0.35
+F5HF68,Q09472,taxid:868565(hhv8p),taxid:868565(Human herpesvirus 8),taxid:9606(human),taxid:9606(Homo sapiens),0.35
+F5HF68,Q92793,taxid:868565(hhv8p),taxid:868565(Human herpesvirus 8),taxid:9606(human),taxid:9606(Homo sapiens),0.35
+P0DOE9,P40939,taxid:11259(hrsva),taxid:11259(human respiratory sy),taxid:9606(human),taxid:9606(Homo sapiens),0.35
+P0DOE9,Q14204,taxid:11259(hrsva),taxid:11259(human respiratory sy),taxid:9606(human),taxid:9606(Homo sapiens),0.35
+P0DOE9,Q96S55,taxid:11259(hrsva),taxid:11259(human respiratory sy),taxid:9606(human),taxid:9606(Homo sapiens),0.35
+P0DOE9,Q8TEM1,taxid:11259(hrsva),taxid:11259(human respiratory sy),taxid:9606(human),taxid:9606(Homo sapiens),0.35
+P0DOE9,P06576,taxid:11259(hrsva),taxid:11259(human respiratory sy),taxid:9606(human),taxid:9606(Homo sapiens),0.35
+P0DOE9,Q9NQC3,taxid:11259(hrsva),taxid:11259(human respiratory sy),taxid:9606(human),taxid:9606(Homo sapiens),0.35
+P0DOE9,Q71F56,taxid:11259(hrsva),taxid:11259(human respiratory sy),taxid:9606(human),taxid:9606(Homo sapiens),0.35
+P0DOE9,Q9BSJ8,taxid:11259(hrsva),taxid:11259(human respiratory sy),taxid:9606(human),taxid:9606(Homo sapiens),0.35
+P0DOE9,P68371,taxid:11259(hrsva),taxid:11259(human respiratory sy),taxid:9606(human),taxid:9606(Homo sapiens),0.35
+P0DOE9,Q9NTJ5,taxid:11259(hrsva),taxid:11259(human respiratory sy),taxid:9606(human),taxid:9606(Homo sapiens),0.35
+P0DOE9,P68363,taxid:11259(hrsva),taxid:11259(human respiratory sy),taxid:9606(human),taxid:9606(Homo sapiens),0.35
